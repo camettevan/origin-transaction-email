@@ -47,11 +47,16 @@ html,
     }
     p{
       font-size: 13px !important;
-      color: #cecece;
+      color: #cecece !important;
+      text-decoration: none !important;
       padding: 0 0 2px 0;
       margin-bottom: 0;
       font-family: $origin-font;
       text-align: right;
+      b{
+        color: #cecece !important;
+        text-decoration: none !important;
+      }
     }
   }
 }
